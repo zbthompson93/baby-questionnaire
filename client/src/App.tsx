@@ -15,6 +15,9 @@ function App() {
 
   const goHome = (input: string): void => {
     switch(input) {
+      case "BabyIsFine":
+        setShowBabyIsFine(false);
+        break;
       case "Hungry":
         setShowHungry(false);
         break;
