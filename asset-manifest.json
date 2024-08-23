@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/baby-questionnaire/static/css/main.e4727743.css",
+    "main.js": "/baby-questionnaire/static/js/main.8660c274.js",
+    "static/js/453.258b012d.chunk.js": "/baby-questionnaire/static/js/453.258b012d.chunk.js",
+    "index.html": "/baby-questionnaire/index.html",
+    "main.e4727743.css.map": "/baby-questionnaire/static/css/main.e4727743.css.map",
+    "main.8660c274.js.map": "/baby-questionnaire/static/js/main.8660c274.js.map",
+    "453.258b012d.chunk.js.map": "/baby-questionnaire/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4727743.css",
+    "static/js/main.8660c274.js"
+  ]
+}
